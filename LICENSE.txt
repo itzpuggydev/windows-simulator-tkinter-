@@ -1,0 +1,9 @@
+this product writted on python and tkinter lib , 
+you cant edit this save or steal program is free to use , but no to stole 
+
+
+
+-- by dev_daniel based on python 9.13
+-- version 1.23.4
+-- fixed bugs and added start menu
+-- last edited 12.05.2024
